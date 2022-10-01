@@ -15,4 +15,5 @@
 **branch task11** - Напишите программу на Java, чтобы найти повторяющиеся символы в строке.   
 **branch task12** - Напишите Судоку-солвер.  
 **branch task13** - Напишите программу, которая выводит на экран числа от 1 до 100.При этом вместо чисел, кратных трем, программа должна выводить слово «Fizz», а вместо чисел, кратных пяти — слово «Buzz». Если число кратно и 3, и 5, то программа должна выводить слово «FizzBuzz»   
-   
+**branch task14** - Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case).   
+
