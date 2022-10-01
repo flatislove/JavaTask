@@ -19,3 +19,4 @@
 **branch task15** - Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative.   
 **branch task16** - Your task is to sort a given string. Each word in the string will contain a single number. This number is the position the word should have in the result. Note: Numbers can be from 1 to 9. So 1 will be the first word (not 0).   
 **branch task17** - You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.   
+**branch task18** - You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. Write a method that takes the array as an argument and returns this "outlier" N.   
